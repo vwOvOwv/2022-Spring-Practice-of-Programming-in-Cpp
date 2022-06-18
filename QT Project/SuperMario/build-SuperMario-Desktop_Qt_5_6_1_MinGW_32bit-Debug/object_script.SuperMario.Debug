@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\gamebeginwindow.o
+./debug\mybutton.o
+./debug\mainscene.o
+./debug\aboutscene.o
+./debug\mario.o
+./debug\brick.o
+./debug\unknownbrick.o
+./debug\mrushroom.o
+./debug\qrc_res.o
+./debug\moc_gamebeginwindow.o
+./debug\moc_mybutton.o
+./debug\moc_mainscene.o
+./debug\moc_aboutscene.o
+);

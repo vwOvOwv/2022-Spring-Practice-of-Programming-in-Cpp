@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\gamebeginwindow.o
+./release\mybutton.o
+./release\mainscene.o
+./release\aboutscene.o
+./release\mario.o
+./release\brick.o
+./release\unknownbrick.o
+./release\mrushroom.o
+./release\qrc_res.o
+./release\moc_gamebeginwindow.o
+./release\moc_mybutton.o
+./release\moc_mainscene.o
+./release\moc_aboutscene.o
+);
