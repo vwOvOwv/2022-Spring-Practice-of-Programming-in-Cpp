@@ -47,5 +47,4 @@ int main()
 		cout << *max_element(f + 1, f + n + 1) << endl;
 	}
 	return 0;
-	return 0;
 }
